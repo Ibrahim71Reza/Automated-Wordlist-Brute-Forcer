@@ -23,8 +23,8 @@ git clone https://github.com/danielmiessler/SecLists.git /opt/SecLists
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Ibrahim71Reza/Automated-Wordlist-Brute-Forcer.git
-cd wordlist-cracker-automator
+git clone https://github.com/Ibrahim71Reza/Wordlist_Brute_Forcer.git
+cd Wordlist_Brute_Forcer
 chmod +x script.sh
 ```
 
